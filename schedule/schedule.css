@@ -1,3 +1,7 @@
+body{
+  font-family: 'Fjalla One', sans-serif;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
